@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"first.sol": "new1"
+			"second.sol": "new1"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"first.sol": {
-			"keccak256": "0xbbb89e785b6cef9637ee622272307a90d25508b636de9c581062739eb17c18de",
+		"second.sol": {
+			"keccak256": "0xc62939e720495732b441f88b43697e5548290ecf7a11ff0f3742b62110904ab4",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://fdafda3739c47658affbbd7d8343c89c46304b01c046427abf78fa6d8b328f39",
-				"dweb:/ipfs/QmRD7X8fESdzqsA33ddL7RPtWr2t5WpBXGh4UtjYW8nmZe"
+				"bzz-raw://b3b9fdb5ff82957efcfc7de14004fe899e54b90c18e00e92224aad8dadea77bc",
+				"dweb:/ipfs/QmcAjsFUJDciaSrND2pFvjrbrUR1uyCQAxYeU56jG7CAZc"
 			]
 		}
 	},
