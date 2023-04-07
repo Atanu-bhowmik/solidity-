@@ -19,7 +19,13 @@
 				"type": "function"
 			},
 			{
-				"inputs": [],
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "newage",
+						"type": "uint256"
+					}
+				],
 				"name": "setAge",
 				"outputs": [],
 				"stateMutability": "nonpayable",
@@ -54,11 +60,11 @@
 	},
 	"sources": {
 		"function.sol": {
-			"keccak256": "0x5260b4f0188743f1e1199570fe3a520f25c21279b89265cacac13735f8f48565",
+			"keccak256": "0xcb6e6ed076f6b7524c2d7161e6b8e17db05bedc1d8d26778e602edac53de0abe",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://6da35f05198b7bf0ddbbe16496ef822710b3595e5b1e0964c2c8a64b2c2f4244",
-				"dweb:/ipfs/QmPVWmq69EXSbw4o85Cm7yRN14C6Gg93r5zwPHQRuHgMb2"
+				"bzz-raw://e16a09e1c2bc99810326e1d1266454643dfc4f8dee168a9833e1ec41ff411974",
+				"dweb:/ipfs/QmUqFmDZMkgXKdi2tNRfjB9BGwNbAbtrXXsQtNgWwL5wH6"
 			]
 		}
 	},
