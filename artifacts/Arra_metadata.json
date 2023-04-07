@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"array.sol": "Name"
+			"array.sol": "Arra"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"array.sol": {
-			"keccak256": "0x5f2f9df7c2321f4ac1a6f59bc6d5a2027701b63e1e5bef49543bcd2952355094",
+			"keccak256": "0x306c96cfeb65af56689ded60e226bcf233307685d6bd7fc03819dd0ed74ee240",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://f2cc2a9370d775ce90659686ee32615c00d65a8a34206941915d437cdc361361",
-				"dweb:/ipfs/QmRCcuyoSBc8sTZpJ7P8mev5Bfua1tBSiS8MGU9Ak9EKoZ"
+				"bzz-raw://935c6e0628689db890647cb8354587a1128ca8375195fca51edce19f41d6e2ee",
+				"dweb:/ipfs/QmeD9ywVRzvZRGFRBQXJ4YVQfXRtUiMLKRfkfUsRBdDqJS"
 			]
 		}
 	},
