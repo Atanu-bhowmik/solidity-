@@ -6,13 +6,14 @@
 	"output": {
 		"abi": [
 			{
-				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"inputs": [],
-				"name": "getage",
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "arr",
 				"outputs": [
 					{
 						"internalType": "uint256",
@@ -25,12 +26,12 @@
 			},
 			{
 				"inputs": [],
-				"name": "getname",
+				"name": "count",
 				"outputs": [
 					{
-						"internalType": "string",
+						"internalType": "uint256",
 						"name": "",
-						"type": "string"
+						"type": "uint256"
 					}
 				],
 				"stateMutability": "view",
@@ -38,7 +39,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "setage",
+				"name": "loop",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -57,7 +58,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"identity.sol": "identity"
+			"loops.sol": "loops"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -71,12 +72,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"identity.sol": {
-			"keccak256": "0x3ea2c3301f2e797efea1fa67fe77be54871187e3b3189467e25ef0cb12c2f17f",
+		"loops.sol": {
+			"keccak256": "0x20f3596988a2b71851674c69b0be3684752b7211437a5bd37ef3b931f6552051",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://622e168d94710b35ce23ac1765db1a9c045ca6a6a1a6027551084bb972509ab9",
-				"dweb:/ipfs/Qmb7Hd1SRUMQAiQEJ1J1mvUFw6ft3xb9Xhc8qdjCp2HVeC"
+				"bzz-raw://a73c70b907ab4acb87e10d7a4e5721b656a3988fc57508e2196428c37d1c1c25",
+				"dweb:/ipfs/QmXHJ1jeWKykLcb9KTuyrK4PyaSU88vq3hjMXkH1eP5nqD"
 			]
 		}
 	},

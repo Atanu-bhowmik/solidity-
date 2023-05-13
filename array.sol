@@ -8,6 +8,7 @@ contract Array {
     // function setter (uint index,uint value) public{
     //     arr[index]=value;
     // }
+
     // function length() public view returns(uint){
     //     return arr.length;
     // }
@@ -22,7 +23,7 @@ contract Array {
     //     arr.pop();
     // }
 
-    //------byte array
+    //------ fixed bytes array
 
     // bytes3 public b3;
     // bytes2 public b2;
